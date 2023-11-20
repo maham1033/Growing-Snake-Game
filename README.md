@@ -1,7 +1,7 @@
 # Snake Game
 Welcome to the Snake Game project! This is a classic Snake game implemented using HTML, CSS, and JavaScript. Have fun playing and try to achieve the highest score!
 
-# How to Play
+## How to Play
 Objective: Control the snake to eat the apples and grow longer without colliding with the walls or itself.
 
 # Controls:
