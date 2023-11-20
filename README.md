@@ -4,17 +4,17 @@ Welcome to the Snake Game project! This is a classic Snake game implemented usin
 ## How to Play
 Objective: Control the snake to eat the apples and grow longer without colliding with the walls or itself.
 
-# Controls:
+## Controls:
 Use the arrow keys (Up, Down, Left, Right) to navigate the snake.
 
-# Scoring:
+## Scoring:
 Each apple eaten increases the score.
 The game speeds up as the snake grows longer.
 
-# License
+## License
 This project is licensed under the MIT License.
 
-# Acknowledgments
+## Acknowledgments
 Inspired by classic Snake games.
 Built as a learning project for HTML, CSS, and JavaScript.
 
